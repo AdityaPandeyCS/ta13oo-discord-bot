@@ -1,0 +1,26 @@
+{
+  "name": "taboo-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord version of u/F1N1ZH_EM_ZEL on reddit",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "serve-favicon": "^2.5.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
