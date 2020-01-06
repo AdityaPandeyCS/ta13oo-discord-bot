@@ -91,7 +91,6 @@ bot.on("guildCreate", guild => {
 });
 
 bot.on("message", msg => {
-
   if (!msg.content.includes(trigger)) {
     return;
   }
